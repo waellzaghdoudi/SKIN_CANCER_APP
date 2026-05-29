@@ -31,19 +31,19 @@ Cette application permet aux professionnels de santé de :
 ## Captures d'écran
 
 ### Page Login
-![Login](screenshots/login.png)
+![Login](login.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Analyse Patient
-![Predict](screenshots/predict.png)
+![Predict](predict.png)
 
 ### Résultat
-![Result](screenshots/result.png)
+![Result](result.png)
 
 ### Liste Patients
-![Patients](screenshots/patients.png)
+![Patients](patients.png)
 
 ## Auteur
 Waell Zaghdoudi - 1ère année ingénieur Technologies Avancées (1TA)
